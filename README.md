@@ -9,18 +9,17 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Pedro Henrique Da Silva Fonseca
+- Matricula: 909109
+- Proposta de projeto escolhida: Catalogo de filmes e séries
+- Breve descrição sobre seu projeto: Catalogo de filmes e séries
 
-## Print da versão responsiva com Bootstrap [DESKTOP]
+Um print do Console do navegador mostrando a saída dos seguintes processos:
+A listagem de títulos
+O cálculo das médias
+O resumo das checagens (some e every)
+![alt text](image-1.png)
 
-<<  COLOQUE A IMAGEM AQUI >>
+Um print da página mostrando o resumo dentro da div#output.
 
-## Print da versão responsiva com Bootstrap [MOBILE] (*)
-
-<<  COLOQUE A IMAGEM AQUI >>
-
-
-(*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
+![alt text](image-2.png)

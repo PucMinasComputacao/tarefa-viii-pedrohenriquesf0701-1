@@ -1,12 +1,63 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./css/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Catalogo de Filmes e Series</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: white;
+      color: black;
+    }
+
+    h1 {
+      color: steelblue;
+    }
+
+    p {
+      color: gray;
+      margin-bottom: 20px;
+    }
+
+    #output {
+      margin-top: 20px;
+    }
+
+    #output h2 {
+      margin-top: 30px;
+      color: steelblue;
+    }
+
+    #output ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    #output li {
+      padding: 8px;
+      border-bottom: 1px solid lightgray;
+    }
+
+    .badge {
+      font-size: 0.8rem;
+      padding: 2px 8px;
+      border-radius: 4px;
+      margin-left: 8px;
+    }
+
+    .assistido { background: honeydew; color: seagreen; }
+    .nao-assistido { background: mistyrose; color: indianred; }
+  </style>
 </head>
 <body>
-    
+
+  <h1>Catalogo de Filmes e Series</h1>
+  <p>Abra o Console (F12) para ver os resultados completos.</p>
+
+  <div id="output"></div>
+
+  <script src="script.js"></script>
 </body>
 </html>
